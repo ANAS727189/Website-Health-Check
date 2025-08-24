@@ -83,7 +83,6 @@ Check the health of multiple websites concurrently.
       "url": "https://example.com",
       "statusCode": 200,
       "alive": true,
-      // ... other fields
     }
   ],
   "summary": {
